@@ -1,4 +1,5 @@
-# Ace It
+# Ace It ~ Project made for Sunhacks 2018
+# Won 1st Prize for this project
 
 ## Description
 Accepts problems as text input and finds Chegg solutions for the problem without needing a Chegg account.
